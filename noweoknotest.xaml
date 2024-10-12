@@ -8,5 +8,6 @@
         Title="noweoknotest" Height="450" Width="800">
     <Grid>
         <Button Content="drugie okno"/>
+        <Button Content="drugie okno v2"/>
     </Grid>
 </Window>
